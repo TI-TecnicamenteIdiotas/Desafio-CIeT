@@ -1,7 +1,7 @@
-Feature: Search in Database for questions
-Scenario: Search for existing question
-Given that i browse to the search questions page
-And type 'Science: Computers' in the search field
-And select 'Category' in the category filter option
-When click in the search button
-Then i see a table with 25 questions and a navigation bar at the bottom
+Funcionalidade: Buscar perguntas no banco de dados
+Cenario: Buscar por perguntas existentes
+Dado que eu navegue para a página de pesquisa de perguntas
+E digito 'Ciência: Computadores' na aba de pesquisa
+E seleciono 'Categoria' na opção de filtros de categoria.
+Quando clico no botão de pesquisa
+Entao eu vejo uma tabela com 25 perguntas e uma barra de navegação no bottom da pagina
