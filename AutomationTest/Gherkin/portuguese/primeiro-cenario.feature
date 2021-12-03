@@ -1,6 +1,10 @@
-Feature: Search in Database for questions
-Scenario: Search for inexistent question
-Given that i browse to the search questions page
-And type 'Science: Computers' in the search field
-When click in the search button
-Then i see a message with an error text: 'No questions found.'
+Feature: Procurar por uma pergunta no banco de questões.
+Como um usuário no portal
+Quero procurar por uma questão no banco de questões.
+
+Background:
+Given: Eu clico no botão "Browse" e vou para a página de pesquisa de perguntas.
+	Scenario: Pesquisa para pergunta inexistente
+		And digito "Science: Computers" no campo de pesquisa
+		When clico no botão de pesquisar
+		Then eu vejo uma mensagem de erro: "No questions found."
