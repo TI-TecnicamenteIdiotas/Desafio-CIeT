@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "type": "module",
   "description": "",
+  "scripts": {
+    "test": "rm -rf ./dist; rm -rf ./mochawesome-report; tsc; mocha --spec ./dist --reporter mochawesome --reporter-options reportDir=mochawesome-report,reportFilename=index -t 10000;"
+  },
   "author": "",
   "license": "MIT",
   "dependencies": {
