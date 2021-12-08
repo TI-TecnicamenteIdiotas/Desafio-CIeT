@@ -16,5 +16,5 @@
 
 <br>
 
-[![Repository Card](https://github-readme-stats.vercel.app/api/pin/?username=AlmirJNR&repo=Desafio-CI-T&show_owner=true)](https://github.com/AlmirJNR/Desafio-CI-T)
+[![Repository Card](https://github-readme-stats.vercel.app/api/pin/?username=AlmirJNR&repo=Desafio-CI-T&show_owner=true&theme=dark)](https://github.com/AlmirJNR/Desafio-CI-T)
 </div>

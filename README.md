@@ -1,4 +1,4 @@
-# The Team
+<h2 style="font-size: 3em">The Team</h2>
 
 ## Almir Alves de Freitas Júnior
 
@@ -8,7 +8,6 @@
 <a href="https://www.github.com/AlmirJNR/">![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
 
 <br>
-<br>
 
 ## Gabriel Rabelo Machado Santos
 
@@ -16,7 +15,6 @@
 
 <a href="https://github.com/gabrielrabelomachadosantos">![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
 
-<br>
 <br>
 
 ## Lucas Coacci
@@ -26,7 +24,6 @@
 <a href="https://www.linkedin.com/in/lucas-coacci-4b35ba183/">![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://github.com/CoacciLucas">![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
 
-<br>
 <br>
 
 ## Luciano Augusto do Carmo
